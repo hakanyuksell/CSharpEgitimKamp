@@ -1,0 +1,7 @@
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\bin\Debug\03_decide.exe.config
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\bin\Debug\03_decide.exe
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\bin\Debug\03_decide.pdb
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\obj\Debug\03_decide.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\obj\Debug\03_decide.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\obj\Debug\03_decide.exe
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\03_decide\obj\Debug\03_decide.pdb
