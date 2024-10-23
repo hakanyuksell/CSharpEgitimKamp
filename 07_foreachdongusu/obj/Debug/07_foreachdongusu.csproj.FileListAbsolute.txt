@@ -1,0 +1,7 @@
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\bin\Debug\07_foreachdongusu.exe.config
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\bin\Debug\07_foreachdongusu.exe
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\bin\Debug\07_foreachdongusu.pdb
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\obj\Debug\07_foreachdongusu.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\obj\Debug\07_foreachdongusu.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\obj\Debug\07_foreachdongusu.exe
+C:\Users\Hakan\source\repos\CSharpEgitimKampi\07_foreachdongusu\obj\Debug\07_foreachdongusu.pdb
