@@ -15,3 +15,8 @@ Murat Yücedağ hocamızın yaptığı eğitim kampının kodlarını içermekte
 7. Ders: Bu derste döngü çeşitlerinden olan Foreach döngüsü çalışıldı ve önemli kısımlar gösterildi. Örneklerle desteklendi.
 ---------------------------------------------------------------------------------------------------------------------
 8. Ders: Metotlar dersi en önemli derslerden bir tanesiydi. Bir yapının metot olduğunu anlamamız için sonun () getirilmesi gerektiği ve renginin mor olduğunu görmüş olduk ve metotlar yazarak örnekler yaptık.
+
+
+![image](https://github.com/user-attachments/assets/b3acdbe7-e65e-4e7c-9d8d-7176a9b9bc18)
+
+
