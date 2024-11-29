@@ -17,6 +17,13 @@ Murat Yücedağ hocamızın yaptığı eğitim kampının kodlarını içermekte
 8. Ders: Metotlar dersi en önemli derslerden bir tanesiydi. Bir yapının metot olduğunu anlamamız için sonun () getirilmesi gerektiği ve renginin mor olduğunu görmüş olduk ve metotlar yazarak örnekler yaptık.
 
 
+
+
+
+----------------------------------------------------------------------------------------------------------------
+C# Kampı çerçevesinde Murat Yücedağ hocamızın anlatımıyla Form ile bir Tur uygulaması yaptık ve veri tabanında yapmış olduğumuz verileri çekerek ekranımıza yansıttık. 
+
+
 ![image](https://github.com/user-attachments/assets/b3acdbe7-e65e-4e7c-9d8d-7176a9b9bc18)
 
 
