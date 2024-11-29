@@ -21,6 +21,7 @@ Murat Yücedağ hocamızın yaptığı eğitim kampının kodlarını içermekte
 
 
 ----------------------------------------------------------------------------------------------------------------
+CASE 3:
 C# Kampı çerçevesinde Murat Yücedağ hocamızın anlatımıyla Form ile bir Tur uygulaması yaptık ve veri tabanında yapmış olduğumuz verileri çekerek ekranımıza yansıttık. 
 
 
